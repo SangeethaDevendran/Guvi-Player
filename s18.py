@@ -1,2 +1,2 @@
-cha=input()
-print(cha.title())
+chack=input()
+print(chack.title())
