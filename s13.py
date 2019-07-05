@@ -1,2 +1,2 @@
-sha=input()
-print(sha[::-1])
+shac=input()
+print(shac[::-1])
